@@ -1,5 +1,5 @@
 # NYCU-Visual-Recognition-2025-Spring-HW1
-StudentID  : 312540021
+StudentID  : 312540021\n
 Name       : Kezia Nathania (林紀霞)
 
 ## Introduction
