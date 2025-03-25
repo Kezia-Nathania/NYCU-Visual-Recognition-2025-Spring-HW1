@@ -9,11 +9,12 @@ Additionally, data augmentation is used to create a more diverse dataset, and an
 
 ## How to Install
 ### Clone the repository:  
-git clone https://github.com/yourusername/yourrepository.git
-cd yourrepository  
+git clone https://github.com/Kezia-Nathania/NYCU-Visual-Recognition-2025-Spring-HW1.git
+cd NYCU-Visual-Recognition-2025-Spring-HW1  
 ### Install dependencies:  
 pip install -r requirements.txt  
 ### Run the notebook
 
 
 ## Performance Snapshot
+![Alt text](images/your-image.png)
