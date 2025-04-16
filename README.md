@@ -13,7 +13,7 @@ Additionally, data augmentation is used to create a more diverse dataset, and an
   cd NYCU-Visual-Recognition-2025-Spring-HW1  
 ### Install dependencies:  
   pip install -r requirements.txt  
-### Run the .py file
+### Run the notebooks  
 
 
 ## Performance Snapshot
